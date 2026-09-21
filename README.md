@@ -1,4 +1,4 @@
-# Security Assessment — Tomate TV Stick (Android TV)
+# Analise de vulnerabilidades (Android TV)
 
 ## Resumo
 Análise de segurança de uma TV stick Android da Tomate.
@@ -19,7 +19,7 @@ Identificadas falhas de configuração que permitem execução de código não a
 ### 2. Acesso root por padrão
 - **Severidade:** Alta
 - **Descrição:** Acesso root habilitado de fábrica, sem senha.
-- **Impacto:** Qualquer app ou acesso físico tem controle total.
+- **Impacto:** Qualquer app ou acesso físico tem controle total do sistema.
 
 ### 3. Aplicativos pré-instalados suspeitos
 - **Severidade:** Média
